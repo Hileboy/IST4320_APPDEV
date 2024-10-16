@@ -1,1 +1,1 @@
-print(Hello version2 World!)
+print('Hello version2 World!')
